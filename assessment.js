@@ -55,6 +55,7 @@ const answers = [
 	'{userName}の良いところは用心深さです。{userName}の洞察に、多くの人が助けられます。',
 	'{userName}の良いところは見た目です。内側から溢れ出る{userName}の良さに皆が気を惹かれます。',
 	'{userName}の良いところは決断力です。{userName}が下す決断にいつも助けられています。',
+	'{userName}の良いところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒されています。'
 ];
 
 function assessment(userName) {
